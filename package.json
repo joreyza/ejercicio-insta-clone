@@ -1,0 +1,23 @@
+{
+  "name": "exercise-instagram-feed",
+  "version": "1.0.0",
+  "description": "Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar tus habilidades de principiante en HTML/CSS. En este proyecto practicarás los siguientes conceptos:",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joreyza/ejercicio-insta-clone.git"
+  },
+  "author": "jorge reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joreyza/ejercicio-insta-clone/issues"
+  },
+  "homepage": "https://github.com/joreyza/ejercicio-insta-clone#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
